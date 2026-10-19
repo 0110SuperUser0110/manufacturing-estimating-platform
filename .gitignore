@@ -1,0 +1,9 @@
+# This repository is intentionally documentation-only.
+*
+!.gitignore
+!README.md
+!LICENSE
+!SECURITY.md
+!CONTRIBUTING.md
+!assets/
+!assets/**
